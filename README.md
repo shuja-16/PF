@@ -1,1 +1,1 @@
-# this rep conatains everything I did when learning programming fundamnetals.
+# this rep contains everything I did when learning programming fundamentals.
