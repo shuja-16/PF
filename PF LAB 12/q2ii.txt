@@ -1,0 +1,11 @@
+Character 'A/a' Occurs 2 Times 
+Character 'E/e' Occurs 1 Times 
+Character 'H/h' Occurs 1 Times 
+Character 'I/i' Occurs 1 Times 
+Character 'J/j' Occurs 1 Times 
+Character 'M/m' Occurs 2 Times 
+Character 'N/n' Occurs 1 Times 
+Character 'S/s' Occurs 2 Times 
+Character 'U/u' Occurs 1 Times 
+Character 'Y/y' Occurs 1 Times 
+Total characters: 13
