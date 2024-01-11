@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1655280447 source:c:\users\adones\downloads\c projects\movie_ticket_c\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<conio.h>
-	<windows.h>
-
