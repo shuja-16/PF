@@ -1,1 +1,2 @@
-# this rep contains everything I did when learning programming fundamentals.
+#Programming Fundamentals
+This repository contains everything I did when learning programming fundamentals.
